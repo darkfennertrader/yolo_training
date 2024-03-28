@@ -1,0 +1,4 @@
+venv/
+models/
+yolov8n.pt
+*.pyc
